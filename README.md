@@ -114,7 +114,7 @@ This project is suitable for:
 
 AUTHOR
 ------
-Kavin Raj
+DEVA PRAKASSH M.J
 B.Tech - Artificial Intelligence & Data Science
 
 
