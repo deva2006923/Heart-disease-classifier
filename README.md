@@ -114,7 +114,8 @@ This project is suitable for:
 
 AUTHOR
 ------
-DEVA PRAKASSH M.J
+DEVA PRAKASSH M.J 
+
 B.Tech - Artificial Intelligence & Data Science
 
 
